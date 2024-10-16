@@ -1,0 +1,5 @@
+.hero-section {
+  background-image: url(/codea/bootstrap-project/assets/heroImg.png);
+  background-size: cover;
+  background-position: bottom;
+}
